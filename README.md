@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awais</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">An enthusiastic Full Stack Developer based in Pakistan, deeply committed to delivering innovative solutions across both front-end and back-end technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
