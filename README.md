@@ -2,7 +2,7 @@
 
 <h3 align="center">Empowering Change Through Code</h3>
 
-Greetings! 👋 As a senior software engineer with a passion for innovation, I've spent the past 5 to 6 years leaving my mark on the tech industry. With a background as a full-stack engineer, I thrive on turning complex challenges into elegant solutions.
+Greetings! 👋 As a senior software engineer with a passion for innovation, I've spent the past 5+ years leaving my mark on the tech industry. With a background as a full-stack engineer, I thrive on turning complex challenges into elegant solutions.
 
 **My Journey:**
 Throughout my career, I've had the incredible opportunity to contribute my skills to products that have touched the lives of millions. From conceptualization to deployment, I relish in creating software that empowers positive change and enriches user experiences.
